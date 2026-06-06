@@ -1,0 +1,23 @@
+# Maven / build
+target/
+build/
+
+# Pilotes telecharges par run.ps1 (regeneres automatiquement)
+lib/
+
+# NetBeans
+nbproject/private/
+nbactions.xml
+.nb-gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Base de donnees locale generee a l'execution
+*.db
